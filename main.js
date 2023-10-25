@@ -15,9 +15,9 @@ function TocaSomTim(){
 document.querySelector('.tecla_tim').onclick = tocaSomTim;
 
 function TocaSomPuff(){
-    document.querySelector('#som_tecla_puff').play();
+    document.querySelector('#som_tecla_Puff').play();
 }
-document.querySelector('.tecla_puff').onclick = tocaSompuff;
+document.querySelector('.tecla_Puff').onclick = tocaSomPuff;
 
 function TocaSomSplash(){
     document.querySelector('#som_tecla_splash').play();
